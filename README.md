@@ -1,6 +1,6 @@
 # gittest1
 testing for local github
+
 This is a test file
 
-
-git
+This is the change from the local commit
